@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PvPGuard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PvPGuard_jar</output-path>
+    <root id="archive" name="PvPGuard.jar">
+      <element id="module-output" name="PvPGuard" />
+      <element id="extracted-dir" path="$USER_HOME$/BuildTools/spigot-1.14.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

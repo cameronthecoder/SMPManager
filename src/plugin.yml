@@ -1,0 +1,18 @@
+name: PvPGuard
+version: 1.0
+author: Cameron
+main: us.cameron.pvpguard.Main
+description: A pvp manager.
+commands:
+  region:
+    description: This is the region command.
+    usage: /region [add|whitelist|remove]
+  region add:
+    description: This is the command that adds a region.
+    usage: /region add name
+  region whitelist:
+    description: This is the command that adds a player to the region's whitelist.
+    usage: /region whitelist <player> <name>
+  region remove:
+    description: This is the command that removes a region.
+    usage: /region remove <name>
